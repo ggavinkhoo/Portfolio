@@ -57,10 +57,9 @@ I'm an enthusiastic Diploma in Computer Science student looking for an **interns
 | 🏠 **Household Management System** | A system for managing household tasks and information | Python |
 | 📦 **Logistic Management System** | A system for managing logistics operations | Java |
 
-> 🔗 *Add the repository link for each project here, e.g. `[View Repo](https://github.com/<your-username>/<repo-name>)`.*
 
 ### ⚖️ LegalGuard
-A labor law consultation Android application. It is built with **Kotlin** and **Jetpack Compose** for the UI, uses **Supabase** as the backend, and includes **AI implementation** to help users with labor law questions.
+A labor law consultation Android application. It is built with **Kotlin** and **Jetpack Compose** for the UI, uses **Supabase** as the backend, and includes **AI implementation** to help users with labor law questions. https://github.com/ggavinkhoo/LegalGuard
 
 ### 🚗 Car Workshop Management System
 A **C++** system built to manage the operations of a car workshop.
@@ -121,9 +120,3 @@ SPM Result: 4A, 4B, 2C+
 I'm currently looking for an **internship opportunity**. Feel free to reach out!
 
 📧 [cheeyoung.work@gmail.com](mailto:cheeyoung.work@gmail.com)
-
-<div align="center">
-
-![Profile views](https://komarev.com/ghpvc/?username=<your-github-username>&color=2b5797&style=flat-square)
-
-</div>
